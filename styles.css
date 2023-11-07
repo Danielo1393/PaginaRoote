@@ -120,11 +120,11 @@ header .caja_correo{
     color: #222;
 }
 
-.wave {
+/* .wave {
     position: absolute;
     bottom: 0;
     width: 100%;
-}
+} */
 
 .contenedor-sobre-nosotros{
     display: flex;
@@ -225,7 +225,7 @@ header .caja_correo{
     display: flex;
     width: 46%;
     height: 200%;
-    align-items: center;
+    align-items: center; 
     justify-content: space-evenly;
     border-radius: 5px;
     box-shadow: 0 0 6px o rgba(0, 0, 0, 0.6);
@@ -302,7 +302,7 @@ footer{
 
 .content-foo h4{
     color: #fff;
-    border-bottom: 3px solid #af20d3;
+    border-bottom: 3px solid #0c0c0c;
     padding-bottom: 5px;
     margin-bottom: 10px;
 }
